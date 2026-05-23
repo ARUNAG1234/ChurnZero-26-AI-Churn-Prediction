@@ -1,8 +1,5 @@
 # ChurnZero-26-AI-Churn-Prediction
 📊 ChurnZero 26 – AI-Driven Banking Customer Churn Prediction
-🏆 Hackathon Submission
-
-ChurnZero 26 – Unstop Hackathon
 
 🚀 Project Overview
 
